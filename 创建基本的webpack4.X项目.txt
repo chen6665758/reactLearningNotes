@@ -1,0 +1,5 @@
+创建基本的webpack4.X项目
+1、运行npm init -y快速初始化项目
+2、在项目根目录创建src源代码目录和dist产品目录,并建立package.json文件
+3、在src中建立index.html文件与main.js的入口文件
+4、使用cnpm i webpack webpack-cli -D来安装webpack
